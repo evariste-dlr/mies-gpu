@@ -1,5 +1,5 @@
 
-# MIES sur GPU
+# MIES-based graph reduction on GPU
 
 __French below__
 
